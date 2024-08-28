@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:learningx/chat_item.dart';
-import 'package:learningx/club_card.dart';
+import 'package:learningx/widgets/chat_item.dart';
+import 'package:learningx/widgets/club_card.dart';
 
 class ClubsPage extends StatelessWidget {
   const ClubsPage({super.key});
